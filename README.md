@@ -1,4 +1,19 @@
-# Clash下载官网客户端分享 (2026年08月更新)
+<div align="center">
+  <a href="https://github.com/clashke/Clash" title="Clash下载官网客户端分享">
+  <img width="100" height="100" alt="Clash" src="https://github.com/user-attachments/assets/2b8f6532-20d9-4538-96d8-07b02342923b" />
+  </a>
+  <h1>Clash下载官网客户端分享 (2026年8月更新)</h1>
+  <p>
+    <b>Clash全平台代理客户端下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Update-2026.08-brightgreen.svg" alt="Update">
+    <img src="https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Linux-blue.svg" alt="Platform">
+    <img src="https://img.shields.io/badge/Ecosystem-Clash%20%7C%20Mihomo%20%7C%20Sing--box%20%7C%20Xray-orange.svg" alt="Ecosystem">
+  </p>
+</div>
+
+如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！
 
 ---
 
