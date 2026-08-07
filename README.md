@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/clashke/Clash" title="Clash下载官网客户端分享">
-  <img width="512" height="512" alt="Clash" src="https://github.com/user-attachments/assets/488a36a5-cddf-4881-8bf0-d7d952bda07e" />
+  <img width="128" height="128" alt="Clash" src="https://github.com/user-attachments/assets/488a36a5-cddf-4881-8bf0-d7d952bda07e" />
   </a>
   <h1>Clash下载官网客户端分享 (2026年8月更新)</h1>
   <p>
