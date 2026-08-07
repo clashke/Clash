@@ -144,7 +144,7 @@
 | [Hiddify](https://gethiddify.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://gethiddify.org/) |
 
 
-## 如果您觉得本工具对您有帮助，不妨在右上角点亮一颗小星星，以示鼓励！
+## 如果您觉得本工具对您有帮助，不妨在左上角点亮一颗小星星，以示鼓励！
 
 <p align="center">
   <a href="https://github.com/clashke/Clash/tree/star-history">
