@@ -2,12 +2,12 @@
   <a href="https://github.com/clashke/Clash" title="Clash下载官网客户端分享">
   <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/488a36a5-cddf-4881-8bf0-d7d952bda07e" />
   </a>
-  <h1>Clash下载官网客户端分享 (2026年8月更新)</h1>
+  <h1>Clash下载官网客户端分享 (2026年9月更新)</h1>
   <p>
     <b>Clash全平台下载官网客户端分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Update-2026.08-brightgreen.svg" alt="Update">
+    <img src="https://img.shields.io/badge/Update-2026.09-brightgreen.svg" alt="Update">
     <img src="https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Linux-blue.svg" alt="Platform">
     <img src="https://img.shields.io/badge/Ecosystem-Clash%20%7C%20Mihomo%20%7C%20Sing--box%20%7C%20Xray-orange.svg" alt="Ecosystem">
   </p>
