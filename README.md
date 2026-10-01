@@ -2,7 +2,7 @@
   <a href="https://github.com/clashke/Clash" title="Clash下载官网客户端分享">
   <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/488a36a5-cddf-4881-8bf0-d7d952bda07e" />
   </a>
-  <h1>Clash下载官网客户端分享 (2026年9月更新)</h1>
+  <h1>Clash下载官网客户端分享 (2026年10月更新)</h1>
   <p>
     <b>Clash全平台下载官网客户端分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
